@@ -1,2 +1,3 @@
 # CacheManager
-ThreadSafe Caching Mechanism suing Pure Java SDK Classes.
+ThreadSafe Caching Mechanism using Pure Java SDK Classes.
+
